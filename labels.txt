@@ -1,0 +1,4 @@
+0 book
+1 gelas
+2 esp32
+3 charger
